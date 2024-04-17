@@ -9,14 +9,22 @@
 
 1. Clone o repositório: git clone https://github.com/Kess220/RD-Challenge
 
+2. Instalar dependências
 ```bash
 yarn
-yarn test
 ```
 
 Ou usando o NPM:
 
 ```bash
 npm install
+```
+3. Rodar testes
+
+```bash
+yarn test
+```
+ou com NPM:
+```bash
 npm test
 ```
